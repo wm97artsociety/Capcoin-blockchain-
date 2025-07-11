@@ -9,8 +9,6 @@ v2 new download folder
 
 I'll extract the contents of your uploaded ZIP, organize it for production use, and add:
 
-✅ A mock demo version (test-only, simulates cap scans)
-
 ✅ A production-ready build (real token logic, working features)
 
 ✅ A detailed README.md file (the bio you asked for)
@@ -47,8 +45,7 @@ JavaScript/TypeScript (frontend)
 
 Web3.js / Ethers.js (blockchain interaction)
 
-MediaPipe (for camera hand/bottle detection in demo)
-
+MediaPipe (for camera hand/bottle cap collection 
 
 
 ---
